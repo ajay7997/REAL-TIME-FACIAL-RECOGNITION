@@ -1,0 +1,19 @@
+EXECUTION STEPS:
+Step-1:
+We need to install the required software from the documentation.
+
+Step-2:
+After successful installation of required software Install the numpy and opencv.
+
+Step-3:
+Download the haarcascade_frontalface_default.xml from the github.
+
+Step-4:
+We need to Create the datasets by using datasetcreator.py
+
+Step-5:
+After creation of datasets, we need to train them by using trainer.py
+
+Step-6:
+Finally, we can detect the faces by using detector.py
+
