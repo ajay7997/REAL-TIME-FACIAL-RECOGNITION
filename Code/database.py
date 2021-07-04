@@ -1,4 +1,5 @@
 import sqlite3
+import time
 conn = sqlite3.connect('database.db')
 c = conn.cursor()
 sql = """
